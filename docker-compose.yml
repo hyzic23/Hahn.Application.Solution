@@ -1,0 +1,22 @@
+# Please refer https://aka.ms/HTTPSinContainer on how to setup an https developer certificate for your ASP .NET Core service.
+
+version: '3.4'
+
+services:
+  ms-sql-server:
+    image: mcr.microsoft.com/mssql/server:2017-latest
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "localdb@23"
+      
+    ports:
+      - "1423:1423"
+  petshopapi:
+    image: petshopapi
+    build:
+      context: .
+      dockerfile: PetShop.API/Dockerfile
+    depends_on:
+      - ms-sql-server
+    ports:
+      - 8000:8000
