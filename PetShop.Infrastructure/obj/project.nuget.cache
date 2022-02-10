@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iHNDjVRZdill9ncE9LcsS9V9QpvfbMbe9gY7SLZW/cXXA84D8WTVL7i2pxHWsf8RYAmkI+4d004JTyu0bCb9MQ==",
+  "dgSpecHash": "wx2/G9sWF6/hGBxQCVKqAdZQAM+SkKg09nqfKSnOrJt0DBJXpEAgZaI2tnNcdH6AinyX+vM6AwSifABeTJaUXQ==",
   "success": true,
   "projectFilePath": "/Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.Infrastructure/PetShop.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -9,11 +9,14 @@
     "/Users/hyzic/.nuget/packages/fluentvalidation/10.3.6/fluentvalidation.10.3.6.nupkg.sha512",
     "/Users/hyzic/.nuget/packages/fluentvalidation.aspnetcore/10.3.6/fluentvalidation.aspnetcore.10.3.6.nupkg.sha512",
     "/Users/hyzic/.nuget/packages/fluentvalidation.dependencyinjectionextensions/10.3.6/fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
+    "/Users/hyzic/.nuget/packages/mediatr/10.0.1/mediatr.10.0.1.nupkg.sha512",
+    "/Users/hyzic/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/hyzic/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/10.0.1/mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
     "/Users/hyzic/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/hyzic/.nuget/packages/microsoft.extensions.configuration/5.0.0/microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "/Users/hyzic/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "/Users/hyzic/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.0/microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
-    "/Users/hyzic/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/Users/hyzic/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "/Users/hyzic/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "/Users/hyzic/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "/Users/hyzic/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",

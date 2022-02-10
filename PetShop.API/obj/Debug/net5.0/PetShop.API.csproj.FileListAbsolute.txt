@@ -1,3 +1,10 @@
+/Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/obj/Debug/net5.0/PetShop.API.csproj.AssemblyReference.cache
+/Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/obj/Debug/net5.0/PetShop.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/obj/Debug/net5.0/PetShop.API.AssemblyInfoInputs.cache
+/Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/obj/Debug/net5.0/PetShop.API.AssemblyInfo.cs
+/Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/obj/Debug/net5.0/PetShop.API.csproj.CoreCompileInputs.cache
+/Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/obj/Debug/net5.0/PetShop.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/obj/Debug/net5.0/PetShop.API.MvcApplicationPartsAssemblyInfo.cache
 /Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/bin/Debug/net5.0/appsettings.Development.json
 /Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/bin/Debug/net5.0/appsettings.json
 /Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/bin/Debug/net5.0/PetShop.API.deps.json
@@ -12,6 +19,9 @@
 /Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/bin/Debug/net5.0/FluentValidation.dll
 /Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/bin/Debug/net5.0/FluentValidation.AspNetCore.dll
 /Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/bin/Debug/net5.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/bin/Debug/net5.0/MediatR.dll
+/Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/bin/Debug/net5.0/MediatR.Contracts.dll
+/Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/bin/Debug/net5.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
 /Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
 /Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/bin/Debug/net5.0/Microsoft.Extensions.Options.dll
 /Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
@@ -30,13 +40,6 @@
 /Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/bin/Debug/net5.0/PetShop.Infrastructure.dll
 /Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/bin/Debug/net5.0/PetShop.Infrastructure.pdb
 /Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/bin/Debug/net5.0/PetShop.Core.pdb
-/Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/obj/Debug/net5.0/PetShop.API.csproj.AssemblyReference.cache
-/Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/obj/Debug/net5.0/PetShop.API.GeneratedMSBuildEditorConfig.editorconfig
-/Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/obj/Debug/net5.0/PetShop.API.AssemblyInfoInputs.cache
-/Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/obj/Debug/net5.0/PetShop.API.AssemblyInfo.cs
-/Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/obj/Debug/net5.0/PetShop.API.csproj.CoreCompileInputs.cache
-/Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/obj/Debug/net5.0/PetShop.API.MvcApplicationPartsAssemblyInfo.cs
-/Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/obj/Debug/net5.0/PetShop.API.MvcApplicationPartsAssemblyInfo.cache
 /Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/obj/Debug/net5.0/staticwebassets/PetShop.API.StaticWebAssets.Manifest.cache
 /Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/obj/Debug/net5.0/staticwebassets/PetShop.API.StaticWebAssets.xml
 /Users/hyzic/Documents/sandbox/c#/PetShopManagementSystem/PetShop.API/obj/Debug/net5.0/scopedcss/bundle/PetShop.API.styles.css

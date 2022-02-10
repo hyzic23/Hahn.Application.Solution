@@ -1,3 +1,4 @@
+using System.Threading.Tasks;
 using PetShop.Core.Interfaces;
 
 namespace PetShop.Infrastructure.Repository
@@ -20,6 +21,9 @@ namespace PetShop.Infrastructure.Repository
         public IDoctorRepository Doctors { get; }
         public IAppointmentRepository Appointments { get; }
 
-       
+        public Task<int> SaveAsync()
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }

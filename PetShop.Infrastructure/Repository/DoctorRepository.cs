@@ -48,7 +48,8 @@ namespace PetShop.Infrastructure.Repository
             }
         }
 
-        public async Task<IReadOnlyList<Doctor>> GetAllAsync()
+        // public async Task<IReadOnlyList<Doctor>> GetAllAsync()
+        public async Task<IEnumerable<Doctor>> GetAllAsync()
         {
             var query = "Select * from Doctors";
                 using(var connection = CreateConnection())

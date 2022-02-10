@@ -8,5 +8,6 @@ namespace PetShop.Core.Interfaces
         IDoctorRepository Doctors { get;}
         IAppointmentRepository Appointments { get; }
         //Task<bool> SaveAsync();
+        Task<int> SaveAsync();
     }
 }
