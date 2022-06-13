@@ -68,6 +68,16 @@ namespace PetShop.API.Controllers
             var data = await unitOfWork.Doctors.UpdateAsync(doctor);
             return Ok(data);
         }
+
+        //This is for testing   
+        [HttpGet]
+        [Route("GetDoctorsAppointmentDate/{id}")]
+        public async Task<IActionResult> GetDoctorsAppointmentDate(int id)
+        {
+            var doctor = await unitOfWork.Doctors.GetByIdAsync(id);
+            if (doctor == null) return Ok();
+            return Ok(doctor);
+        }
     
 
 
